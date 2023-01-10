@@ -1,5 +1,4 @@
-This uses the C++20 standard so you need g++ version 10 or superior to compile.
+# AoCPP2021
+C++ solutions to the 2021 Advent of Code
 
-To compile day x use : 
-g++-10 -std=c++2a dayx.cpp -o dayx.out
-or just make all
+This uses the C++20 standard so you will need g++ version 10 or superior to compile.
