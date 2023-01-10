@@ -1,17 +1,5 @@
-This uses C++20 standard so you need g++ version 10 or superior to compile.
-
-To install on Ubuntu:
-
-sudo add-apt-repository ppa:ubuntu-toolchain-r/test
-
-sudo apt-get update
-
-sudo apt install gcc-10 g++-10
-
+This uses the C++20 standard so you need g++ version 10 or superior to compile.
 
 To compile day x use : 
-g++-10 -std=c++2a dayx.cpp -o dayx
-
+g++-10 -std=c++2a dayx.cpp -o dayx.out
 or just make all
-
-Valou is extremely cute btw.
